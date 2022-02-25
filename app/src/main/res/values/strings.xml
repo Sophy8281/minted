@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Minted</string>
+    <string name="title">I am Rich!</string>
+    <string name="diamond_image_content_description">Diamond Image</string>
+</resources>
